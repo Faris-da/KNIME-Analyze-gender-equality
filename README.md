@@ -7,4 +7,6 @@ Projet realisé entierement sur l'ETL KNIME
 - 3 Nettoyage des datas
 - 4 Mise en confirmité des datas
 - 5 Réalisation de tests
-- 6 Représentation visuelle des data
+- 6 Représentation visuelle des datas
+
+
